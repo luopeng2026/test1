@@ -6,4 +6,4 @@
 5、切换分支修改 by dev
 6、测试获取
 7、测试获取1 by master
-
+7、测试获取1 by origin
